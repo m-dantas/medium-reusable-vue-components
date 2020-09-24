@@ -6,5 +6,9 @@
   },
   "dependencies": {
     "@m-dantas/j-table-row": "^0.1.0"
+  },
+  "repository" : {
+    "type" : "git",
+    "url": "ssh://git@github.com:m-dantas/medium-reusable-vue-components.git"
   }
 }
