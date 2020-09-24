@@ -1,0 +1,10 @@
+{
+  "name": "@m-dantas/j-table",
+  "version": "0.1.0",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@m-dantas/j-table-row": "^0.1.0"
+  }
+}
